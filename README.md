@@ -5,7 +5,7 @@ Exchange portfolio basket by Python and DeepLearning
 ```
 Includes data of 337 stock symbols until 2021-10-23 (Aban 1, 1400)
 ```
-- [ ]  Determine the best test times based on the number of buy and sell signals of the Ichimoku algorithm
+- [x]  Determine the best test times based on the number of buy and sell signals of the Ichimoku algorithm
 - [ ]  Testing the efficiency of Ichimoku algorithm in identifying the most profitable stock symbols
 - [ ]  Use deep learning algorithms to predict stock value in the short/medium term
 
