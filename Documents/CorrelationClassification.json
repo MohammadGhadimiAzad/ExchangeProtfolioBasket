@@ -1,0 +1,692 @@
+{
+    "TopCorr": [
+        {
+            "name": "RSTR",
+            "correlation": 0.9998917926887634
+        },
+        {
+            "name": "RBTC",
+            "correlation": 0.9964496468370595
+        },
+        {
+            "name": "ZANO",
+            "correlation": 0.9953534872908476
+        },
+        {
+            "name": "BTG",
+            "correlation": 0.9946617755430466
+        },
+        {
+            "name": "ETC",
+            "correlation": 0.986300041383507
+        },
+        {
+            "name": "DFI",
+            "correlation": 0.9857818470536673
+        },
+        {
+            "name": "NEO",
+            "correlation": 0.9851046947785567
+        },
+        {
+            "name": "BAND",
+            "correlation": 0.9812786296080436
+        },
+        {
+            "name": "LTC",
+            "correlation": 0.9812210297747712
+        },
+        {
+            "name": "COTI",
+            "correlation": 0.9811064434917109
+        },
+        {
+            "name": "EOS",
+            "correlation": 0.9810714553584692
+        },
+        {
+            "name": "SRM",
+            "correlation": 0.9789654711913311
+        },
+        {
+            "name": "KSM",
+            "correlation": 0.9785853082606727
+        },
+        {
+            "name": "DOGE",
+            "correlation": 0.9739453634362879
+        },
+        {
+            "name": "MLN",
+            "correlation": 0.9725905734989843
+        },
+        {
+            "name": "BSV",
+            "correlation": 0.9719130540879198
+        },
+        {
+            "name": "C98",
+            "correlation": 0.9705007364877117
+        },
+        {
+            "name": "ZIL",
+            "correlation": 0.9674847973992007
+        },
+        {
+            "name": "DGB",
+            "correlation": 0.9657714846346044
+        },
+        {
+            "name": "LINK",
+            "correlation": 0.9651345094752718
+        },
+        {
+            "name": "SNX",
+            "correlation": 0.9650353935844231
+        },
+        {
+            "name": "ICP1",
+            "correlation": 0.9648112771868325
+        },
+        {
+            "name": "VET",
+            "correlation": 0.9639420259716993
+        },
+        {
+            "name": "SCC3",
+            "correlation": 0.963819918945206
+        },
+        {
+            "name": "ELA",
+            "correlation": 0.9630876719051665
+        },
+        {
+            "name": "BTT1",
+            "correlation": 0.9629083028337183
+        },
+        {
+            "name": "AAVE",
+            "correlation": 0.962270825964193
+        },
+        {
+            "name": "HC",
+            "correlation": 0.9620608951134654
+        },
+        {
+            "name": "XRP",
+            "correlation": 0.9614208601609046
+        },
+        {
+            "name": "RAY",
+            "correlation": 0.9609667985442025
+        },
+        {
+            "name": "KIN",
+            "correlation": 0.9593200118595284
+        },
+        {
+            "name": "CTC1",
+            "correlation": 0.9586983728902111
+        },
+        {
+            "name": "SUSHI",
+            "correlation": 0.958119115781654
+        },
+        {
+            "name": "UNI3",
+            "correlation": 0.957842436859341
+        },
+        {
+            "name": "HBAR",
+            "correlation": 0.9571191824530766
+        },
+        {
+            "name": "RSR",
+            "correlation": 0.9571054881059087
+        },
+        {
+            "name": "NIM",
+            "correlation": 0.95569172052073
+        },
+        {
+            "name": "XCH",
+            "correlation": 0.9548201099960596
+        },
+        {
+            "name": "LUNA1",
+            "correlation": 0.9544885698358603
+        },
+        {
+            "name": "NMR",
+            "correlation": 0.9534291558787756
+        },
+        {
+            "name": "ACT",
+            "correlation": 0.9533191415375818
+        },
+        {
+            "name": "BHP",
+            "correlation": 0.9533130397109917
+        },
+        {
+            "name": "NXT",
+            "correlation": 0.9521338228750175
+        },
+        {
+            "name": "VAL1",
+            "correlation": 0.9516952000526001
+        },
+        {
+            "name": "OXT",
+            "correlation": 0.951214336463834
+        },
+        {
+            "name": "XLM",
+            "correlation": 0.9507283217496418
+        },
+        {
+            "name": "NKN",
+            "correlation": 0.949979300554023
+        },
+        {
+            "name": "DOT1",
+            "correlation": 0.9499629513187251
+        },
+        {
+            "name": "BNT",
+            "correlation": 0.9495828406867226
+        },
+        {
+            "name": "FIL",
+            "correlation": 0.9480312810124848
+        },
+        {
+            "name": "CAKE",
+            "correlation": 0.945976583767373
+        },
+        {
+            "name": "PCX",
+            "correlation": 0.9459685303901586
+        },
+        {
+            "name": "XTZ",
+            "correlation": 0.9458857857150653
+        },
+        {
+            "name": "ONT",
+            "correlation": 0.9442094831389307
+        },
+        {
+            "name": "RLC",
+            "correlation": 0.9432367578938244
+        },
+        {
+            "name": "NMC",
+            "correlation": 0.9429813368622475
+        },
+        {
+            "name": "MASS",
+            "correlation": 0.9420524849965769
+        },
+        {
+            "name": "APL",
+            "correlation": 0.9419392889465426
+        },
+        {
+            "name": "ETN",
+            "correlation": 0.9389538595288766
+        },
+        {
+            "name": "NEBL",
+            "correlation": 0.9384423159955423
+        },
+        {
+            "name": "BCN",
+            "correlation": 0.9375100911093825
+        },
+        {
+            "name": "XHV",
+            "correlation": 0.9361480139334489
+        },
+        {
+            "name": "XMR",
+            "correlation": 0.9352382231221608
+        },
+        {
+            "name": "BEPRO",
+            "correlation": 0.9346251730268091
+        },
+        {
+            "name": "OMG",
+            "correlation": 0.9335849716381138
+        },
+        {
+            "name": "XEM",
+            "correlation": 0.9303947755906229
+        },
+        {
+            "name": "SRK",
+            "correlation": 0.9301915637445979
+        },
+        {
+            "name": "VTC",
+            "correlation": 0.9297581605009555
+        },
+        {
+            "name": "COMP",
+            "correlation": 0.9291827843651647
+        },
+        {
+            "name": "DAG",
+            "correlation": 0.926267317724526
+        },
+        {
+            "name": "BAL",
+            "correlation": 0.9254548773786174
+        },
+        {
+            "name": "GRT2",
+            "correlation": 0.9252335882117984
+        },
+        {
+            "name": "ERG",
+            "correlation": 0.9202587561772215
+        },
+        {
+            "name": "IOST",
+            "correlation": 0.9202485878210783
+        },
+        {
+            "name": "QNT",
+            "correlation": 0.919707485098074
+        },
+        {
+            "name": "CHZ",
+            "correlation": 0.9179356696389873
+        },
+        {
+            "name": "BTC2",
+            "correlation": 0.9169576008773638
+        },
+        {
+            "name": "TWT",
+            "correlation": 0.9157979691023084
+        },
+        {
+            "name": "BCH",
+            "correlation": 0.9155769222381637
+        },
+        {
+            "name": "FTT1",
+            "correlation": 0.9144532148123254
+        },
+        {
+            "name": "ZRX",
+            "correlation": 0.9138787958939251
+        },
+        {
+            "name": "PAI",
+            "correlation": 0.9137731678480009
+        },
+        {
+            "name": "BCD",
+            "correlation": 0.912888600960154
+        },
+        {
+            "name": "MIR1",
+            "correlation": 0.9120565454181219
+        },
+        {
+            "name": "IDNA",
+            "correlation": 0.9107391982613848
+        },
+        {
+            "name": "KAVA",
+            "correlation": 0.909564643710076
+        },
+        {
+            "name": "HNT1",
+            "correlation": 0.9079068279482388
+        },
+        {
+            "name": "LBC",
+            "correlation": 0.9068560011024773
+        },
+        {
+            "name": "ADA",
+            "correlation": 0.906243884108377
+        },
+        {
+            "name": "SHIB",
+            "correlation": 0.9045481923372276
+        },
+        {
+            "name": "MAN",
+            "correlation": 0.9036231946605499
+        },
+        {
+            "name": "LOKI",
+            "correlation": 0.9020646116295282
+        },
+        {
+            "name": "STX1",
+            "correlation": 0.9010904949973515
+        }
+    ],
+    "MiddleCorr": [
+        {
+            "name": "WAVES",
+            "correlation": 0.8953082613540528
+        },
+        {
+            "name": "AEON",
+            "correlation": 0.8936725113584899
+        },
+        {
+            "name": "NAS",
+            "correlation": 0.8926445144666537
+        },
+        {
+            "name": "CTSI",
+            "correlation": 0.8921763209383562
+        },
+        {
+            "name": "SAPP",
+            "correlation": 0.8893674859693881
+        },
+        {
+            "name": "PI",
+            "correlation": 0.8877920667589502
+        },
+        {
+            "name": "QTUM",
+            "correlation": 0.8868368536098759
+        },
+        {
+            "name": "DMD",
+            "correlation": 0.8858280054670936
+        },
+        {
+            "name": "XVG",
+            "correlation": 0.8804610693498189
+        },
+        {
+            "name": "DCR",
+            "correlation": 0.8803517604214353
+        },
+        {
+            "name": "GNO",
+            "correlation": 0.8781479479569065
+        },
+        {
+            "name": "HEX",
+            "correlation": 0.8765225958544458
+        },
+        {
+            "name": "SALT",
+            "correlation": 0.8740269162756406
+        },
+        {
+            "name": "ETH",
+            "correlation": 0.8737466519470009
+        },
+        {
+            "name": "ETP",
+            "correlation": 0.869011808179724
+        },
+        {
+            "name": "UBQ",
+            "correlation": 0.8665451639502563
+        },
+        {
+            "name": "CRU",
+            "correlation": 0.8640577180964022
+        },
+        {
+            "name": "DERO",
+            "correlation": 0.8589413028745627
+        },
+        {
+            "name": "CEL",
+            "correlation": 0.8582857902138625
+        },
+        {
+            "name": "POA",
+            "correlation": 0.8579203684072123
+        },
+        {
+            "name": "AR",
+            "correlation": 0.85404084575757
+        },
+        {
+            "name": "GXC",
+            "correlation": 0.8530002183410492
+        },
+        {
+            "name": "TRX",
+            "correlation": 0.852700630220998
+        },
+        {
+            "name": "DGD",
+            "correlation": 0.8506595723922324
+        },
+        {
+            "name": "FO",
+            "correlation": 0.8457232825704571
+        },
+        {
+            "name": "RVN",
+            "correlation": 0.8453919345465013
+        },
+        {
+            "name": "SOL1",
+            "correlation": 0.8450544845649508
+        },
+        {
+            "name": "GBYTE",
+            "correlation": 0.834721422543308
+        },
+        {
+            "name": "ZEL",
+            "correlation": 0.8346385401812235
+        },
+        {
+            "name": "NLG",
+            "correlation": 0.8330200079887715
+        },
+        {
+            "name": "VTHO",
+            "correlation": 0.8286388706573663
+        },
+        {
+            "name": "KDA",
+            "correlation": 0.8246633654155845
+        },
+        {
+            "name": "IOTX",
+            "correlation": 0.8240383651796235
+        },
+        {
+            "name": "DASH",
+            "correlation": 0.8239308433842145
+        },
+        {
+            "name": "NU",
+            "correlation": 0.8234849193512677
+        },
+        {
+            "name": "PHA",
+            "correlation": 0.8214203249039503
+        },
+        {
+            "name": "MHC",
+            "correlation": 0.8190781571784237
+        },
+        {
+            "name": "DCN",
+            "correlation": 0.8180100055511769
+        },
+        {
+            "name": "MTL",
+            "correlation": 0.8146699065832126
+        },
+        {
+            "name": "GAS",
+            "correlation": 0.8141534659008846
+        },
+        {
+            "name": "NANO",
+            "correlation": 0.8102430479660327
+        },
+        {
+            "name": "XWC",
+            "correlation": 0.8095533155136299
+        },
+        {
+            "name": "CET",
+            "correlation": 0.8076967510347904
+        },
+        {
+            "name": "ANT",
+            "correlation": 0.806244272734081
+        },
+        {
+            "name": "ZNN",
+            "correlation": 0.8047262017070016
+        },
+        {
+            "name": "VITE",
+            "correlation": 0.801865063768558
+        },
+        {
+            "name": "CLV",
+            "correlation": 0.8012684426411758
+        },
+        {
+            "name": "FIRO",
+            "correlation": 0.7951659161306055
+        },
+        {
+            "name": "AXS",
+            "correlation": 0.7938635548374258
+        },
+        {
+            "name": "BNB",
+            "correlation": 0.7906954485198855
+        },
+        {
+            "name": "TFUEL",
+            "correlation": 0.7871478579345988
+        },
+        {
+            "name": "EWT",
+            "correlation": 0.7851486673784197
+        },
+        {
+            "name": "GO",
+            "correlation": 0.7842865709920932
+        },
+        {
+            "name": "GRIN",
+            "correlation": 0.7815619473450033
+        },
+        {
+            "name": "1INCH",
+            "correlation": 0.7766221565021241
+        },
+        {
+            "name": "SOLVE",
+            "correlation": 0.7764386861928995
+        },
+        {
+            "name": "BIP",
+            "correlation": 0.7711056714445872
+        },
+        {
+            "name": "BTS",
+            "correlation": 0.7673298562205935
+        },
+        {
+            "name": "AXEL",
+            "correlation": 0.7597333103744432
+        },
+        {
+            "name": "AVA",
+            "correlation": 0.7587515399012854
+        },
+        {
+            "name": "ALGO",
+            "correlation": 0.7586301332060379
+        },
+        {
+            "name": "YFI",
+            "correlation": 0.7534475089678174
+        }
+    ],
+    "InverseCorr": [
+        {
+            "name": "XAS",
+            "correlation": -0.843174873077542
+        },
+        {
+            "name": "VGX",
+            "correlation": -0.8168929884150267
+        },
+        {
+            "name": "SAND",
+            "correlation": -0.7699517753615936
+        },
+        {
+            "name": "CRO",
+            "correlation": -0.7117030016408019
+        },
+        {
+            "name": "MWC",
+            "correlation": -0.6962946710617044
+        },
+        {
+            "name": "ROSE",
+            "correlation": -0.6957878479332096
+        },
+        {
+            "name": "MANA",
+            "correlation": -0.6937820824935327
+        },
+        {
+            "name": "ABBC",
+            "correlation": -0.6796834720971543
+        },
+        {
+            "name": "STORJ",
+            "correlation": -0.6783689444843364
+        },
+        {
+            "name": "DIVI",
+            "correlation": -0.6716074359539013
+        },
+        {
+            "name": "TOMO",
+            "correlation": -0.6574361001478414
+        },
+        {
+            "name": "RINGX",
+            "correlation": -0.6496290856683548
+        },
+        {
+            "name": "DNA1",
+            "correlation": -0.6434595309882376
+        },
+        {
+            "name": "SCP",
+            "correlation": -0.6386557555330433
+        },
+        {
+            "name": "AVAX",
+            "correlation": -0.6374348784634928
+        },
+        {
+            "name": "EGLD",
+            "correlation": -0.6108277329528299
+        }
+    ]
+}
