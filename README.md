@@ -9,8 +9,10 @@ Includes data of 337 stock symbols until 2021-10-23 (Aban 1, 1400)
 - [ ]  Testing the efficiency of Ichimoku algorithm in identifying the most profitable stock symbols
 - [ ]  Use deep learning algorithms to predict stock value in the short/medium term
 
-## Authors
+## Auxiliary links
+https://codeshack.io/json-sorter/
 
+## Authors
 - [@mohammadGhadimiAzad](https://www.github.com/MohammadGhadimiAzad)
 
 ## 🔗 Links
