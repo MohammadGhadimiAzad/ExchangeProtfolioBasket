@@ -50,6 +50,7 @@ def plot_model_results(model, x, y, tfp_model: bool = True):
 def negloglik(y, distr):
     return -distr.log_prob(y)
 
+
 model_lin_reg_tfp = tf.keras.Sequential(
     [
         tf.keras.layers.Input(shape=(1,)),
