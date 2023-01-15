@@ -1,6 +1,8 @@
 """
 Created on Wed May 11 17:06:34 2016
 @author: hossam
+
+https://github.com/7ossam81/EvoloPy
 """
 import random
 import numpy
