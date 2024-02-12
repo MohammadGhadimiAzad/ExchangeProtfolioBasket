@@ -100,4 +100,4 @@ a = regressor.predict([[1000]])
 print(a)
 
 b = sc.inverse_transform(a)
-print(a)
+print(b)
